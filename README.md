@@ -1,5 +1,6 @@
 # jQuery-animate
 
+### https://kanaitakeshi.github.io/jQuery-animate/
 - アニメーションをつける
   - animateメソッド
   - hoverイベント
